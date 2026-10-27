@@ -1,0 +1,8 @@
+{
+  "name": "Remix BIZGAB AI - Gestion \u0026 Commerce au Gabon",
+  "description": "Application de gestion commerciale, stocks, finances en FCFA et assistant IA pour les commerçants et PME du Gabon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
